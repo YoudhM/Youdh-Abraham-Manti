@@ -1,89 +1,62 @@
 ---
 layout: cv
-title: Manti's CV
+title: Youdh Abraham Manti's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Youdh Abraham Manti
+Finance Major, Business Analytics Minor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:abr22002@byui.edu">abr22002@byui.edu</a>
+| <a href="https://www.linkedin.com/in/youdhabrahammanti/">My LinkedIn Profile</a>
+| (385) 354-9044
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Seeking opportunities in Data Analytics and Finance.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Financial Statements, Basic Accounting Principles, Data Verification.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Data Analytics, Financial Dashboards, Process Automation, Auditing.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`February 2023 - March 2026`
+__Brigham Young University - Idaho__, Rexburg, Idaho
+- BS Finance, Minor in Business Analytics
+- Awarded Academic Grant
 
 
+## Skills
 
-## Awards
+* **Data Analytics:** Financial Statements, Basic Accounting Principles
+* **Tools:** Excel (Pivot Tables, VBA, Macros), Power BI, Python, SQL
+* **Languages:** English (Fluent), Hindi (Fluent), Telugu (Native), Tamil (Proficient)
 
-`2012`
-President, *Royal Society*, London, UK
+## Experience
 
-Associate, *French Academy of Science*, Paris, France
+`August 2025 - September 2025`
+__M/s UJJINENI & CO, Chartered Accountants__, Hyderabad, India
+- **Audit Assistant**
+- Returned for a second tenure due to high-quality deliverables.
+- Executed complex data verification for financial audits using advanced Excel functions (VLOOKUP, Pivot Tables).
+- Ensured 100% accuracy in client financial reporting.
 
+`August 2024 - January 2025`
+__Brigham Young University - Idaho__, Rexburg, Idaho
+- **BA-215 Excel Spreadsheet TA**
+- Guided 30+ students on advanced Excel functions (Pivot Tables, VBA, IF functions, advanced charts).
+- Improved Excel proficiency by 10% among students through detailed feedback on 300+ projects.
 
+## Certifications
 
-## Publications
+`July 2025`
+SQL Associate, *Data Camp*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`April 2025`
+Business Administration, *BYU-Idaho*
